@@ -1,0 +1,31 @@
+p {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 1300px;
+	background-color: rgb(173, 216, 230, 0.5);
+	padding: 20px;
+	}
+
+	h1, h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: darkred;
+	}
+	
+	body {
+		background-image: url("slike/pozadine.jpg");
+		}
+
+
+	a:link {
+			color: black;
+			background-color: white;
+			padding: 2px;
+		    line-height: 40 px;
+		    border: 1px solid #000000;
+			}
+
+
+	img {
+		height: 300px;
+		}
